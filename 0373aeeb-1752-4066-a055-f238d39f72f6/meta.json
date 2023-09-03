@@ -1,0 +1,16 @@
+{
+  "id": "0373aeeb-1752-4066-a055-f238d39f72f6",
+  "created_date": 1468500977051,
+  "type": "image/x-somc-sticker-large",
+  "item_count": 58,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Otto",
+  "name": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "034388a3-284d-4785-aa48-5b477be0d5ed",
+  "created_date": 1545404816433,
+  "type": "image/x-somc-pattern",
+  "item_count": 8,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "background_color": "",
+  "text_color": "",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Abstract",
+  "name": []
+}

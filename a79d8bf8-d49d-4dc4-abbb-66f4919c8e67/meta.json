@@ -1,0 +1,18 @@
+{
+  "id": "a79d8bf8-d49d-4dc4-abbb-66f4919c8e67",
+  "created_date": 1545404872042,
+  "type": "image/x-somc-pattern",
+  "item_count": 4,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "background_color": "",
+  "text_color": "",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Canvas",
+  "name": []
+}

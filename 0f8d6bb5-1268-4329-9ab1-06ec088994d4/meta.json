@@ -1,0 +1,27 @@
+{
+  "id": "0f8d6bb5-1268-4329-9ab1-06ec088994d4",
+  "created_date": 1444215296268,
+  "type": "image/x-somc-sticker-large",
+  "item_count": 47,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Hotel Transylvania 2",
+  "name": [{"region": "hr", "value": "Hotel Transylvania 2"},
+           {"region": "de", "value": "Hotel Transsilvanien 2"},
+           {"region": "el", "value": "Ξενοδοχείο για τέρατα 2"},
+           {"region": "tr", "value": "Otel Transilvanya 2"},
+           {"region": "pt_BR", "value": "Hotel Transilvânia 2"},
+           {"region": "sr", "value": "Hotel Transilvanija 2"},
+           {"region": "pl", "value": "Hotel Transylwania 2"},
+           {"region": "sv", "value": "Hotell Transylvanien 2"},
+           {"region": "bg", "value": "Хотел Трансилвания 2"},
+           {"region": "fr_CA", "value": "Hôtel Transylvanie 2"},
+           {"region": "ru", "value": "Монстры на каникулах 2"},
+           {"region": "ja", "value": "Monsters Hotel 2"}]
+}

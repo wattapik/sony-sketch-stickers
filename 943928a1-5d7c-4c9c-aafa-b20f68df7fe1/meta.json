@@ -1,0 +1,18 @@
+{
+  "id": "943928a1-5d7c-4c9c-aafa-b20f68df7fe1",
+  "created_date": 1545405351239,
+  "type": "image/x-somc-pattern",
+  "item_count": 13,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "background_color": "",
+  "text_color": "",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Squares",
+  "name": []
+}

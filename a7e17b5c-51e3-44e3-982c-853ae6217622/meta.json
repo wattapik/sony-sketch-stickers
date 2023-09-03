@@ -1,0 +1,18 @@
+{
+  "id": "a7e17b5c-51e3-44e3-982c-853ae6217622",
+  "created_date": 1539786619775,
+  "type": "image/x-somc-sticker-large",
+  "item_count": 24,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "background_color": "",
+  "text_color": "",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Ribbons",
+  "name": []
+}

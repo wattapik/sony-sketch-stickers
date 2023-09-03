@@ -1,0 +1,18 @@
+{
+  "id": "af32406b-604a-4245-be3d-4005f43114dc",
+  "created_date": 1545405295818,
+  "type": "image/x-somc-pattern",
+  "item_count": 24,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "background_color": "",
+  "text_color": "",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Retro",
+  "name": []
+}

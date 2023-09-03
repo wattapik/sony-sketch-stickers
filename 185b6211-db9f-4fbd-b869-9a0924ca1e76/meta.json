@@ -1,0 +1,26 @@
+{
+  "id": "185b6211-db9f-4fbd-b869-9a0924ca1e76",
+  "created_date": 1435330224747,
+  "type": "image/x-somc-sticker-large",
+  "item_count": 81,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "attribution": {
+    "text": "Learn more about PIXELS here",
+    "image": "/attribution.png",
+    "url": "http://www.pixels-movie.com"},
+  "default_name": "Pixels",
+  "name": [{"region": "hr", "value": "Pikseli"},
+           {"region": "sl", "value": "Piksli"},
+           {"region": "sr", "value": "Pikseli"},
+           {"region": "hu", "value": "Pixel"},
+           {"region": "ko", "value": "픽셀"},
+           {"region": "pl", "value": "Piksele"},
+           {"region": "lv", "value": "Pixeli"},
+           {"region": "lt", "value": "Pixeliai"},
+           {"region": "et", "value": "Pixelid"},
+           {"region": "mk", "value": "пиксели"},
+           {"region": "ja", "value": "ピクセル"}]
+}

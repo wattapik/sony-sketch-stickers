@@ -1,0 +1,18 @@
+{
+  "id": "53928d0b-ddf8-4d02-b361-212dda71fa8a",
+  "created_date": 1545404948400,
+  "type": "image/x-somc-pattern",
+  "item_count": 12,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "background_color": "",
+  "text_color": "",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Grunge",
+  "name": []
+}

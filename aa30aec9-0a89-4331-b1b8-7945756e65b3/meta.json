@@ -1,0 +1,18 @@
+{
+  "id": "aa30aec9-0a89-4331-b1b8-7945756e65b3",
+  "created_date": 1545405437636,
+  "type": "image/x-somc-pattern",
+  "item_count": 21,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "background_color": "",
+  "text_color": "",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Vintage",
+  "name": []
+}

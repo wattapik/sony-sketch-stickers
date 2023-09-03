@@ -1,0 +1,18 @@
+{
+  "id": "0be8e1d6-da0b-477d-8f34-fb1ead4e1844",
+  "created_date": 1545405042891,
+  "type": "image/x-somc-pattern",
+  "item_count": 12,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "background_color": "",
+  "text_color": "",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Paper",
+  "name": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bc86b714-224c-486e-995d-b6ba6bcf08a2",
+  "created_date": 1413553869566,
+  "type": "image/x-somc-sticker-large",
+  "item_count": 20,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "default_name": "Diwali",
+  "name": [{"region": "bn", "value": "দিওয়ালি"},
+           {"region": "zh", "value": "排灯节"},
+           {"region": "mr", "value": "ದಿदीपावली"},
+           {"region": "ta", "value": "தீபாவளி"},
+           {"region": "te", "value": "దివాలీ"},
+           {"region": "hi", "value": "ದदीवाली"},
+           {"region": "zh_HK", "value": "排燈節"},
+           {"region": "ml", "value": "ദീപാവലി"},
+           {"region": "kn", "value": "ದೀಪಾವಳಿ"}]
+}

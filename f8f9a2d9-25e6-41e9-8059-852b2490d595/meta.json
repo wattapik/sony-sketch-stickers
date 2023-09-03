@@ -1,0 +1,18 @@
+{
+  "id": "f8f9a2d9-25e6-41e9-8059-852b2490d595",
+  "created_date": 1545405003335,
+  "type": "image/x-somc-pattern",
+  "item_count": 25,
+  "icon": "/icon.png",
+  "icon_mono": "/icon.mono.png",
+  "icon_small": "/icon.small.png",
+  "banner_image": "/banner.jpg",
+  "background_color": "",
+  "text_color": "",
+  "attribution": {
+    "text": "",
+    "image": "",
+    "url": ""},
+  "default_name": "Nature",
+  "name": []
+}
